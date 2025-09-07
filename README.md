@@ -9,6 +9,8 @@
 - Built advanced analytics tools providing actionable insights resulting in ~70% overhead reduction on average.
 - Implemented front-end security measures following OWASP best practices.
 
+#### Check out my portfolio and projects in detail: [ishvendra.in](https://ishvendra.in)
+
 #### Things I code with:
    
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px"/></span>&nbsp;
