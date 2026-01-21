@@ -1,6 +1,6 @@
 <img  height="250" width="250" src="./animation.webp" alt="animation" width="400" />
  
-### Frontend developer with 3+ years of experience. I translate complex product vision into high-performance, scalable front-end systems, driving efficiency and innovation across projects.
+### Software developer with 3+ years of experience. I translate complex product vision into high-performance, scalable front-end systems, driving efficiency and innovation across projects.
 
 #### Over the past 3 years, I’ve:
 
